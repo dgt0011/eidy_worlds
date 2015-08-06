@@ -1,0 +1,80 @@
+breath = 11
+hp = 20
+name = lordfingle
+pitch = 7.88
+position = (-2331.81,65,-2387.17)
+version = 1
+yaw = 188.26
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt 10
+Item default:wood 82
+Item default:torch 84
+Item default:stone 42
+Item default:pick_steel 1 29848
+Item default:glass 78
+Item default:cobble 99
+Item default:book
+Item mushroom:spore1 9
+Item farming:seed_wheat 20
+Item mushroom:spore2 11
+Item default:junglewood 4
+Item default:cobble 24
+Item default:coal_lump
+Item default:grass_1 32
+Item default:iron_lump 4
+Item trunks:twig_1 11
+Item molehills:molehill
+Item spawneggs:egg
+Item flowers:seaweed 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_boots 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_helmet 1
+Width 0
+Empty
+EndInventoryList
+List armor_shield 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

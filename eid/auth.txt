@@ -1,0 +1,7 @@
+player::interact,shout:1436443177
+barry::interact,shout:1436444679
+fred::interact,shout:1436443376
+lordfingle::interact,shout:1438349158
+jimmy::interact,shout:1436443259
+singleplayer::interact,shout:1438496078
+asha::interact,shout:1437824819

@@ -1,0 +1,1 @@
+return {["active_quests"] = {}, ["hud"] = {}, ["successfull_quests"] = {}, ["failed_quests"] = {}}
