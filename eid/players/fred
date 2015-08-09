@@ -1,0 +1,80 @@
+breath = 11
+hp = 20
+name = fred
+pitch = 36.07
+position = (-2320,65,-2310)
+version = 1
+yaw = 190.39
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_boots 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_helmet 1
+Width 0
+Empty
+EndInventoryList
+List armor_shield 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

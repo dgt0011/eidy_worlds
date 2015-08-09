@@ -1,0 +1,80 @@
+breath = 11
+hp = 16
+name = singleplayer
+pitch = -4.44
+position = (-1061.03,-33.1,-917.99)
+version = 1
+yaw = -166.71
+PlayerArgsEnd
+List main 32
+Width 0
+Item kpgmobs:meat_raw 8
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List armor_boots 1
+Width 0
+Empty
+EndInventoryList
+List armor_chest 1
+Width 0
+Empty
+EndInventoryList
+List armor_helmet 1
+Width 0
+Empty
+EndInventoryList
+List armor_shield 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
